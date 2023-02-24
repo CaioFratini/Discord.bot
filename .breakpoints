@@ -1,0 +1,18 @@
+{
+  "files": {
+    "locales/pt_br.json": [
+      {
+        "id": "173cfb6c-d0fc-4296-9dad-1fc594d06445",
+        "line": 166,
+        "version": 7,
+        "index": 10687
+      },
+      {
+        "id": "d90c2f4c-c295-4db8-a99c-6332116a997b",
+        "line": 166,
+        "version": 7,
+        "index": 10878
+      }
+    ]
+  }
+}
